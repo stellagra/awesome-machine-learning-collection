@@ -16,6 +16,8 @@ Note:
 - [Deep Learning - Foundations and Concepts](https://www.bishopbook.com/) by Bishop and Bishop, 2024
 - [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Bishop, 2006 - a classic
 - [Deep Learning](https://www.deeplearningbook.org/) by Goodfellow et al., 2016
+- [Foundations of Computer Vision](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/) by Torralba et al., 2024
+- Pattern Classification by Duda et al., 2000 - a classic with many nice visualisations
 
 ## Courses
 - [Andrew Ng's courses](https://www.andrewng.org/courses/) are legendary in the field of ML
