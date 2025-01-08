@@ -9,7 +9,7 @@ This is far from complete, and does not claim to be. Reach out if you want to su
 
 ## Books
 
-- [Murphy's books](https://probml.github.io/pml-book/)
+- [Murphy's books](https://probml.github.io/pml-book/) - continuously updated with various code examples
 - Bishop
 
 ## Courses
