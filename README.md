@@ -22,6 +22,7 @@ Note:
 ## Courses
 - [Andrew Ng's courses](https://www.andrewng.org/courses/) are legendary in the field of ML
 - [Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) - course from Stanford
+- [Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu/) from MIT
 
 ## Websites and Blogposts
 - [statquest](https://statquest.org/) - excellent blog with youtube channel
