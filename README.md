@@ -20,7 +20,7 @@ Note:
 - Pattern Classification by Duda et al., 2000 - a classic with many nice visualisations
 
 ## Courses
-- [Andrew Ng's courses](https://www.andrewng.org/courses/) are legendary in the field of ML
+- [Andrew Ng's courses](https://www.andrewng.org/courses/) are legend in the field of ML
 - [Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) - course from Stanford
 - [Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu/) from MIT
 
